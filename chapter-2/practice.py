@@ -29,4 +29,6 @@ print("Average is: ", result)
 #Write a program to squar the entered Number:
 s = int(input("Please Enter any number to squar: "))
 squared_number = s*s
+squared_number1 = s**2
 print("The Squared Number is: ", squared_number)
+print("The Squared Number is: ", squared_number1)
